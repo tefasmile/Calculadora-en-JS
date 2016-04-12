@@ -21,6 +21,7 @@ h1{
 	flex-direction: column;
 	margin: 2em;
 	border-bottom: 7px solid #1184F7;
+	margin: auto;
 }
 
 .label{
